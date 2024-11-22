@@ -3,10 +3,10 @@ SELECT '===========================>> PFA_TEST_DB <<==========================='
 FROM dual;
 
 
-DROP DATABASE IF EXISTS pfa_test_db;
+DROP DATABASE IF EXISTS hrl_test_db;
 
-CREATE DATABASE pfa_test_db;
-USE pfa_test_db;
+CREATE DATABASE hrl_test_db;
+USE hrl_test_db;
 
 
 
